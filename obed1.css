@@ -1,0 +1,244 @@
+::-webkit-input-placeholder { /* чтобы во всех браузерах отоброжалось дожно быть всегда вверху */
+    font-family: 'Roboto_Condensed';
+    font-size: 14px;
+    color: #737272;
+}
+::-moz-placeholder {
+    font-family: 'Roboto_Condensed';
+    font-size: 14px;
+    color: #737272;
+}
+:-ms-input-placeholder {
+    font-family: 'Roboto_Condensed';
+    font-size: 14px;
+    color: #737272;
+}
+:-moz-placeholder {
+    font-family: 'Roboto_Condensed';
+    font-size: 14px;
+    color: #737272;
+}
+.main_menu nav a {
+    font-size: 24px;
+    color: #FFFFFF;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px 25px;
+    padding-top: 15px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin: 0 12px;
+    margin-top: 0px;
+    margin-right: 12px;
+    margin-bottom: 0px;
+    margin-left: 22px;
+}
+
+* {
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    outline: 0!important;
+    outline-color: initial !important;
+    outline-style: initial !important;
+    outline-width: 0px !important;
+    box-sizing: border-box;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: none;
+    text-decoration-line: underline;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+.main_menu nav {
+    text-align: center;
+    background: #000000;
+    height: 65px;
+
+}
+nav {
+    display: block;
+}
+
+.center nav a:hover {
+    background: blue;
+    height: 65px;
+}
+
+.container {
+    width: 1170px;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    background: background: url(https://keramogranit-centr.ru/upload/iblock/a07/a077015500a0e439b6439854edbad313.jpg);
+    background-attachment: fixed; /*фиксируем фон*/;;
+}
+
+body{
+    background: url(https://keramogranit-centr.ru/upload/iblock/a07/a077015500a0e439b6439854edbad313.jpg);
+    background-attachment: fixed; /*фиксируем фон*/
+}
+
+.ewr {
+    position: relative;
+}
+
+.ewr img{
+    position: absolute;
+}
+
+.ewr p{
+    color: black;
+    position: relative; 
+    text-align: center; 
+    padding-top: 50px; 
+    padding-left: 150px;
+    color: #FFFFFF;
+    font-size: 30px;
+    text-align: center;
+}
+
+.ewr ul li{
+    width: 150px;
+    height: 200px;
+    list-style: none;
+    display: block;
+    margin-top: 100px;
+    box-sizing: border-box;
+    transition: 1s;
+    margin-left: 0px;
+}
+
+.ewr ul li:hover{
+    transform: scale(1.1);
+}
+
+.ewr ul{
+    margin-top: 100px;
+    padding-bottom: 200px;
+    padding-left: 400px;
+    margin-right: 360px;
+    margin-bottom: 200px;
+}
+
+.ewr a{
+    text-decoration: none;
+}
+
+.caq p{
+    display: block;
+    background: #f2f3f5;
+    box-sizing: border-box;
+    margin-top: 300px;
+    height: 100px;
+    color: #a0a0a0;
+    padding-top: 40px;
+    padding-left: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.fsa {
+    position: relative;
+}
+
+.fsa img{
+    position: absolute;
+}
+
+.fsa p{
+    color: black;
+    position: relative; 
+    text-align: center; 
+    padding-top: 50px; 
+    padding-left: 150px;
+    color: #FFFFFF;
+    font-size: 30px;
+    text-align: center;
+}
+
+.fsa ul li{
+    width: 150px;
+    height: 200px;
+    list-style: none;
+    display: block;
+    margin-top: 100px;
+    box-sizing: border-box;
+    transition: 1s;
+    margin-left: 0px;
+}
+
+.fsa ul li:hover{
+    transform: scale(1.1);
+}
+
+.fsa ul{
+    margin-top: 100px;
+    padding-bottom: 200px;
+    padding-left: 400px;
+    margin-right: 360px;
+    margin-bottom: 200px;
+}
+
+.fsa a{
+    text-decoration: none;
+}
+
+.lfg {
+    position: relative;
+}
+
+.lfg img{
+    position: absolute;
+}
+
+.lfg p{
+    color: black;
+    position: relative; 
+    text-align: center; 
+    padding-top: 100px; 
+    padding-left: 150px;
+    color: #FFFFFF;
+    font-size: 30px;
+    text-align: center;
+}
+
+.lfg ul li{
+    width: 150px;
+    height: 200px;
+    list-style: none;
+    display: block;
+    margin-top: 100px;
+    box-sizing: border-box;
+    transition: 1s;
+    margin-left: 0px;
+}
+
+.lfg ul li:hover{
+    transform: scale(1.1);
+}
+
+.lfg ul{
+    margin-top: 100px;
+    padding-bottom: 200px;
+    padding-left: 400px;
+    margin-right: 360px;
+    margin-bottom: 200px;
+}
+
+.lfg a{
+    text-decoration: none;
+}

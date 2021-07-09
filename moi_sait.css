@@ -1,0 +1,229 @@
+::-webkit-input-placeholder { /* чтобы во всех браузерах отоброжалось дожно быть всегда вверху */
+    font-family: 'Roboto_Condensed';
+    font-size: 14px;
+    color: #737272;
+}
+::-moz-placeholder {
+    font-family: 'Roboto_Condensed';
+    font-size: 14px;
+    color: #737272;
+}
+:-ms-input-placeholder {
+    font-family: 'Roboto_Condensed';
+    font-size: 14px;
+    color: #737272;
+}
+:-moz-placeholder {
+    font-family: 'Roboto_Condensed';
+    font-size: 14px;
+    color: #737272;
+}
+
+#header{}
+
+.main_menu nav a {
+    font-size: 24px;
+    color: #FFFFFF;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px 0px;
+    padding-top: 15px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin: 0 12px;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-left: 22px;
+}
+
+* {
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    outline: 0!important;
+    outline-color: initial !important;
+    outline-style: initial !important;
+    outline-width: 0px !important;
+    box-sizing: border-box;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+.main_menu nav {
+    text-align: center;
+    background: #000000;
+    height: 65px;
+
+}
+nav {
+    display: block;
+}
+
+.center nav a:hover {
+    background: blue;
+    height: 65px;
+}
+
+.container {
+    width: 1170px;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+}
+body{
+    background: url(https://keramogranit-centr.ru/upload/iblock/a07/a077015500a0e439b6439854edbad313.jpg);
+    background-attachment: fixed; /*фиксируем фон*/;
+    width: 100%;
+    height: 100%;
+}
+
+.image {
+    position: relative;
+}
+.image img{
+    position: absolute;
+}
+.image h1{
+    color: white;
+    position: relative;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.image h2{
+    color: blue;
+    position: relative;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 240px;
+}
+
+.image h3{
+    color: black;
+    position: relative;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 650px;
+}
+
+.image h4{
+    color: yellow;
+    position: relative;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px; /*передвижение текста*/
+    padding-right: 110px;
+}
+
+.as h1{
+    padding-top: 220px;
+    text-align: center;
+}
+
+.sq {
+    position: relative;
+}
+
+.sq img{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.sq p{
+    color: black;
+    position: relative;
+    text-align: center;
+    padding-right: 40px;
+    padding-left: 500px;
+    padding-top: 200px;
+}
+
+.fds {
+    position: relative;
+    display: block;
+}
+
+.fds img{
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 250px;
+}
+
+.fds p{
+    color: black;
+    position: relative;
+    margin-right: 0px;
+    text-align: center;
+    padding-top: 0px;
+    padding-right: 700px;
+    padding-left: 0px;
+    padding-top: 400px;
+}
+
+.gf {
+    position: relative;
+}
+
+.gf img{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 250px;
+}
+
+.gf p{
+    color: black;
+    position: relative;
+    margin-right: 0px;
+    text-align: center;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 600px;
+    padding-top: 400px;
+}
+
+div{
+    display: block;
+}
+
+.bvc {
+    position: relative;
+}
+
+.bvc img{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 200px;
+}
+
+.cx p{
+    background: #f2f3f5;
+    box-sizing: border-box;
+    margin-top: 500px;
+    height: 100px;
+    color: #a0a0a0;
+    padding-top: 40px;
+    padding-left: 20px;
+    font-size: 15px;
+    text-align: center;
+}
